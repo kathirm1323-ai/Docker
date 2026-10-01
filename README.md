@@ -1,5 +1,5 @@
 
-# Docker Learning Notes
+# Docker Learning Notes 🐳
 
 This repository contains my personal learning notes and practical command references for Docker and containerization. It covers essential Docker concepts, image and container management, volume handling, Docker Compose, Dockerfile instructions, and Docker Ignore.
 
